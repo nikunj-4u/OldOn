@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "255682301629",
+    "project_id": "old-on-8100r2",
+    "storage_bucket": "old-on-8100r2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255682301629:android:0d0a12d2005f05f572f1d4",
+        "android_client_info": {
+          "package_name": "com.mycompany.oldon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255682301629-27ci3vr7qqfcbepfpmhcemqmu3to6r9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.oldon",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "255682301629-0aa5ermq7ml2daofi8lk2pq6no09mohv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWueL-YUxmV9b55azxik6gzXVaIGx9YV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255682301629-0aa5ermq7ml2daofi8lk2pq6no09mohv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "255682301629-kreepc5sukh1gfl8grjm18m34cpud6dg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.oldon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
